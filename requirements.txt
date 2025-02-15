@@ -1,0 +1,8 @@
+Flask
+numpy
+opencv-python
+pytesseract
+Pillow
+scikit-learn
+werkzeug
+logging
